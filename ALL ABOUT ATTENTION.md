@@ -6,6 +6,6 @@
    - Local Attention : Attention to NEARBY TIME-STEPS    
    
    ![Global & Local Attention Description](./Images/GROUP_LOCAL_ATTENTION.png)
-   
-1. 
+
+### 3. Make Some difference in github website
 
