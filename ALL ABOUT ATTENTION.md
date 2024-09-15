@@ -4,6 +4,7 @@
    Global Attention : Attention to ALL TIME-STEPS
    Local Attention : Attention to NEARBY TIME-STEPS
    
-   ![[./Images/Group_LOCAL_ATTENTION.png]]
-3. 
+   ![Global & Local Attention Description](GROUP_LOCAL_ATTENTION.png)
+   
+1. 
 
