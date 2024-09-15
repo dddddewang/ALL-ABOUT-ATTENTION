@@ -6,6 +6,6 @@ Our goal is to make this wiki very strong. Despite being a researcher, this wiki
 
 This is "our" wiki. So, please provide feedback on what is inadequate, or incorrect.  
 
-'''python  
-idk just code  
-'''  
+```
+just code
+```
